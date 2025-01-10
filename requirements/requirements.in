@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+yt-dlp
+pillow
+tqdm
+selenium
+webdriver-manager
+chromedriver
+selenium-wire
+fastapi
+uvicorn
